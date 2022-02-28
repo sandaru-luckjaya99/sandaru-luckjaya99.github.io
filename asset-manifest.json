@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.022eb82c.chunk.css",
+    "main.js": "/static/js/main.846b3994.chunk.js",
+    "main.js.map": "/static/js/main.846b3994.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.0bbb0463.chunk.js": "/static/js/2.0bbb0463.chunk.js",
+    "static/js/2.0bbb0463.chunk.js.map": "/static/js/2.0bbb0463.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f2c12acf9cfc052c4ee679b64635a7af.js": "/precache-manifest.f2c12acf9cfc052c4ee679b64635a7af.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.022eb82c.chunk.css.map": "/static/css/main.022eb82c.chunk.css.map",
+    "static/js/2.0bbb0463.chunk.js.LICENSE.txt": "/static/js/2.0bbb0463.chunk.js.LICENSE.txt",
+    "static/media/ICC.png": "/static/media/ICC.61ff378b.png",
+    "static/media/IT_graduate.pdf": "/static/media/IT_graduate.535e9d3d.pdf",
+    "static/media/USJ.png": "/static/media/USJ.ef3b929c.png",
+    "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/profile.jpg": "/static/media/profile.5f9b9f4d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.0bbb0463.chunk.js",
+    "static/css/main.022eb82c.chunk.css",
+    "static/js/main.846b3994.chunk.js"
+  ]
+}
